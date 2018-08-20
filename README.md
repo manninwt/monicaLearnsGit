@@ -1,2 +1,3 @@
 # monicaLearnsGit
-Monica is learning git
+monica is learning git
+Vim Sucks
